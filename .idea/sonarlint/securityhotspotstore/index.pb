@@ -1,6 +1,10 @@
 
 9
+<<<<<<< HEAD
 	Test.java,8\7\87b0bf1dfd9285eb17c2b5b5b40b41537a60fb17
 :
 
 Test1.java,d\2\d26347a9006de57dbdb69011751274d207c59446
+=======
+	Test.java,8\7\87b0bf1dfd9285eb17c2b5b5b40b41537a60fb17
+>>>>>>> origin/main
