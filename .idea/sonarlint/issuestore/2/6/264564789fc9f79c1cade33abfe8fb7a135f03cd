@@ -1,7 +1,0 @@
-
-R
-java:S1854"5Remove this useless assignment to local variable "x".(Ó ÝÁ8ú¸þ©´1
-C
-java:S1481"&Remove this unused "x" local variable.(Ó ÝÁ8ú¸þ©´1
-L	java:S106"+Replace this use of System.out by a logger.(°Â¬ˆúÿÿÿÿ8ú¸þ©´1
-]	java:S125"<This block of commented-out lines of code should be removed.(‰âî’ýÿÿÿÿ8ú¸þ©´1
