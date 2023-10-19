@@ -9,7 +9,7 @@ public class Test13 {
         System.out.println("Java Home           : "+System.getProperty("java.home"));//Java Home
         System.out.println("Java Vendor         : "+System.getProperty("java.vendor"));//Java Vendor
         System.out.println("Java Vendor URL     : "+System.getProperty("java.vendor.url"));//Java Vendor URL
-        System.out.println("Java Class Path     : "+System.getProperty("Java.path"));//Java Path
+        System.out.println("Java Class Path     : "+System.getProperty("java.class.path"));//Java Pathw
 
     }                             
 }

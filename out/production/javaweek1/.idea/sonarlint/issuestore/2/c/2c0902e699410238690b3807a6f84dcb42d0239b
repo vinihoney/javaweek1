@@ -1,7 +1,8 @@
 
 a
-java:S1659"?Declare "n2" and all following declarations on a separate line.(þä”¼ùÿÿÿÿ8µÏßþ³1
-G	java:S106"+Replace this use of System.out by a logger.(Ø†ò‚8µÏßþ³1
-G	java:S106"+Replace this use of System.out by a logger.(¼¦îÎ8µÏßþ³1
-G	java:S106"+Replace this use of System.out by a logger.(à‹·å8µÏßþ³1
-X	java:S125"<This block of commented-out lines of code should be removed.(ÃÏÜ»8µÏßþ³1
+java:S1659"?Declare "n2" and all following declarations on a separate line.(þä”¼ùÿÿÿÿ8ˆ…á¶´1
+G	java:S106"+Replace this use of System.out by a logger.(Ø†ò‚8˜…á¶´1
+G	java:S106	"+Replace this use of System.out by a logger.(¼¦îÎ8˜…á¶´1
+G	java:S106"+Replace this use of System.out by a logger.(à‹·å8˜…á¶´1
+X	java:S125
+"<This block of commented-out lines of code should be removed.(ÃÏÜ»8˜…á¶´1
