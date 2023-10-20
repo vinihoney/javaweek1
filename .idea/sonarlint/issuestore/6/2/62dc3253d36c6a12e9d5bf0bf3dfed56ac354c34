@@ -1,6 +1,6 @@
 
-m
-java:S1192"KDefine a constant instead of duplicating this literal "Test Data:" 4 times.(¡Êö»úÿÿÿÿ8è¼ ¥´1
+n
+java:S1192"LDefine a constant instead of duplicating this literal "Test Data: " 4 times.(¡Êö»úÿÿÿÿ8è¼ ¥´1
 L	java:S106"+Replace this use of System.out by a logger.(¡Êö»úÿÿÿÿ8ø¼ ¥´1
 L	java:S106"+Replace this use of System.out by a logger.(ºÜø¥úÿÿÿÿ8ø¼ ¥´1
 G	java:S106"+Replace this use of System.out by a logger.(°Øª¾8ø¼ ¥´1

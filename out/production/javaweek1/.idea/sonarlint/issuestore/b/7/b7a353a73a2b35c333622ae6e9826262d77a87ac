@@ -1,3 +1,23 @@
 
-]
-java:S2094"BRemove this empty class, write its code or make it an "interface".(½¶ž˜øÿÿÿÿ
+W
+java:S1854
+"5Remove this useless assignment to local variable "l".(á‡¶³ýÿÿÿÿ8­’Ìæ´1
+R
+java:S1854	"5Remove this useless assignment to local variable "a".(”÷Ñ›8­’Ìæ´1
+W
+java:S1854"5Remove this useless assignment to local variable "n".(¬‰®¥úÿÿÿÿ8­’Ìæ´1
+W
+java:S1854"5Remove this useless assignment to local variable "o".(²¼œÐûÿÿÿÿ8­’Ìæ´1
+H
+java:S1481"&Remove this unused "o" local variable.(²¼œÐûÿÿÿÿ8­’Ìæ´1
+H
+java:S1481"&Remove this unused "n" local variable.(¬‰®¥úÿÿÿÿ8­’Ìæ´1
+C
+java:S1481	"&Remove this unused "a" local variable.(”÷Ñ›8­’Ìæ´1
+H
+java:S1481
+"&Remove this unused "l" local variable.(á‡¶³ýÿÿÿÿ8­’Ìæ´1
+F	java:S106"+Replace this use of System.out by a logger.(Î±ä8­’Ìæ´1
+G	java:S106"+Replace this use of System.out by a logger.(‹ÿî­8­’Ìæ´1
+L	java:S106"+Replace this use of System.out by a logger.(Å­ËÝúÿÿÿÿ8­’Ìæ´1
+X	java:S125"<This block of commented-out lines of code should be removed.(ýèË½8­’Ìæ´1
